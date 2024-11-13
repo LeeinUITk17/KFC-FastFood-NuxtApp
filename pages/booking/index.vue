@@ -1,7 +1,7 @@
 <template>
     <Header/>
-    <div class="mx-auto ">
-      <div class=" shadow-lg rounded-lg mt-6 p-2 w-full ">
+    <div class="container mx-auto bg-white h-5/6 py-10">
+      <div class=" mt-6 p-2 w-full ">
         <bookParty />
       </div>
     </div>

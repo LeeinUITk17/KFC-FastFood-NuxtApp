@@ -2,7 +2,9 @@
   <div class="min-h-screen flex flex-col bg-white">
     <Header />
     <Banner />
-    <ScrollableMenu :menuItems="combodata" @scrollToSection="scrollToSection" />
+    <div ref="scrollableMenuWrapper" class="sticky top-4 z-20">
+      <ScrollableMenu :menuItems="combodata" @scrollToSection="scrollToSection" />
+    </div>
     <main class="flex-grow">
       <section
         v-for="combo in combodata"

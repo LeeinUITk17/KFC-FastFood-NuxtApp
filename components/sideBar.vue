@@ -20,7 +20,7 @@
       </ul>
     </div>
     <button
-      class="fixed top-4 left-4 bg-red-600 font-bold text-white text-2xl px-4 py-4 rounded z-50"
+      class="fixed top-4 left-4 bg-red-600 font-bold text-white text-2xl px-4 py-4 rounded-2xl z-50"
       @click="toggleSidebar"
     >
       ☰ Menu

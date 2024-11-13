@@ -1,7 +1,7 @@
 <template>
-  <div class="min-h-screen flex flex-col p-2">
-    <main class="flex-grow container mx-auto mt-8">
-      <div class="w-full h-full mx-auto bg-white p-6 shadow-lg rounded-lg">
+  <div class="min-h-screen flex flex-col p-2 ">
+    <main class="flex-grow container mx-auto mt-8 h-full">
+      <div class="w-full h-5/6 mx-auto bg-gray-100 p-6 py-28 mt-8 shadow-lg rounded-lg">
         <h2 class="text-2xl font-bold mb-6 text-center text-red-600">Book a Party</h2>
         <div class="flex w-full gap-2 justify-between">
           <div class="mb-6 w-1/2 ml-6 justify-center items-center">

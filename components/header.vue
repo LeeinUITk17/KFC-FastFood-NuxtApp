@@ -4,7 +4,7 @@
         <div class="flex items-center space-x-4">
         <p class="text-4xl font-bold text-bisque mr-4">Drunken Clam</p>
           <img
-            src="https://res.cloudinary.com/dbonwxmgl/image/upload/v1730811513/a3dlu88uiel0pogi3sdz.png"
+            src="https://res.cloudinary.com/dbonwxmgl/image/upload/v1731220914/d5gjgrzdoft32wmaxlmy.png"
             alt="KFC Logo"
             class="h-16"
           />
